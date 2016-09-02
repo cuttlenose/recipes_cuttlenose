@@ -3,11 +3,10 @@ Pizza Sizza
 Ingredients:
 Flour
 Tomatoes
-Cheese
 Onions
 Pepperoni
 Basil
-
+≈
 
 1. do thing 1
 2. do thing 2
